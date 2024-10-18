@@ -1,4 +1,4 @@
-#Tarefas
+# Tarefas
 
 1. Clonar o repositório
 2. Application Properties: adicionar a chave da API da OpenAI
